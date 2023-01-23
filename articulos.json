@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "producto": "Bowl",
+        "img": "../img/1.jpg",
+        "precio": 4620,
+        "color": "Azul",
+        "categoria": "Cocina",
+        "oferta": true
+    },
+    {
+        "id": 2,
+        "producto": "Cuchara",
+        "img": "../img/2.jpg",
+        "precio": 2200,
+        "color": "Dorado",
+        "categoria": "Cocina",
+        "oferta": false
+    },
+    {
+        "id": 3,
+        "producto": "Frasco",
+        "img": "../img/3.jpg",
+        "precio": 8690,
+        "color": "Naranja",
+        "categoria": "Cocina",
+        "oferta": false
+    },
+    {
+        "id": 4,
+        "producto": "Pinches",
+        "img": "../img/4.jpg",
+        "precio": 1750,
+        "color": "Plateado",
+        "categoria": "Cocina",
+        "oferta": false
+    },
+    {
+        "id": 5,
+        "producto": "Taza",
+        "img": "../img/5.jpg",
+        "precio": 3490,
+        "color": "Gris",
+        "categoria": "Cocina",
+        "oferta": false
+    },
+    {
+        "id": 6,
+        "producto": "Almohadon1",
+        "img": "../img/6.jpg",
+        "precio": 11100,
+        "color": "Crudo",
+        "categoria": "Dormitorio",
+        "oferta": true
+    },
+    {
+        "id": 7,
+        "producto": "Almohadon2",
+        "img": "../img/7.jpg",
+        "precio": 6900,
+        "color": "Verde",
+        "categoria": "Dormitorio",
+        "oferta": false
+    },
+    {
+        "id": 8,
+        "producto": "Manta1",
+        "img": "../img/8.jpg",
+        "precio": 69300,
+        "color": "Mostaza",
+        "categoria": "Dormitorio",
+        "oferta": false
+    },
+    {
+        "id": 9,
+        "producto": "Manta2",
+        "img": "../img/9.jpg",
+        "precio": 28000,
+        "color": "Gris",
+        "categoria": "Dormitorio",
+        "oferta": false
+    },
+    {
+        "id": 10,
+        "producto": "Almohadon3",
+        "img": "../img/10.jpg",
+        "precio": 10200,
+        "color": "Negro",
+        "categoria": "Dormitorio",
+        "oferta": false
+    },
+    {
+        "id": 11,
+        "producto": "Portavela",
+        "img": "../img/11.jpg",
+        "precio": 2530,
+        "color": "Dorado",
+        "categoria": "Deco",
+        "oferta": true
+    },
+    {
+        "id": 12,
+        "producto": "Alfombra",
+        "img": "../img/12.jpg",
+        "precio": 8900,
+        "color": "Negra",
+        "categoria": "Deco",
+        "oferta": false
+    },
+    {
+        "id": 13,
+        "producto": "Fanal",
+        "img": "../img/13.jpg",
+        "precio": 25300,
+        "color": "Dorado",
+        "categoria": "Deco",
+        "oferta": false
+    },
+    {
+        "id": 14,
+        "producto": "Perchero",
+        "img": "../img/14.jpg",
+        "precio": 2100,
+        "color": "Plateado",
+        "categoria": "Deco",
+        "oferta": false
+    },
+    {
+        "id": 15,
+        "producto": "Tirador",
+        "img": "../img/15.jpg",
+        "precio": 3600,
+        "color": "Dorado",
+        "categoria": "Deco",
+        "oferta": false
+    }
+]
